@@ -1,8 +1,85 @@
 [
   {
-    "name": "Magic Fluid Wallpapers HD",
-    "packageName": "com.apj.wallpaper.fluid",
-    "icon": "https://play-lh.googleusercontent.com/1z5IckcgWmCuUAqBSNLuVHWJdhHCAUW6sWl21vHC2k-15Y4HC44zLGgp2BL-_nTwKeYiAq_Tn7u5u0xYC8Gy=s128-rw",
+    "name": "Marble Wallpapers HD",
+    "packageName": "com.apj.wallpaper.marble",
+    "icon": "https://play-lh.googleusercontent.com/LxZbTZ6TVlcc0XLnUPKH3XHOhnvQ-8hOhr_lIYyX458ZHqWIoTuThPdDv3zNOBlXOuw6gjd78DbdveJ3U_9m7pA=s128-rw",
+    "downloads": "1+",
+    "isClick": true
+  },
+  {
+    "name": "Tree Wallpapers HD",
+    "packageName": "com.apj.wallpaper.tree",
+    "icon": "https://play-lh.googleusercontent.com/NGvOW_TJt4ZR6ojPyXIlCy7lcKyfTA5CNDbh6-wppz6ed1YjOg5JGqSylsxNwNuwMaIeflhQr-EQSDqj94hwYw=s128-rw",
+    "downloads": "10+",
+    "isClick": true
+  },
+  {
+    "name": "Ronaldo Wallpapers HD",
+    "packageName": "com.apj.wallpaper.ronaldo",
+    "icon": "https://play-lh.googleusercontent.com/4ex5xU4axDalpEkoIjZ1eD5Rhpo5BURONVEOKzwGaEUaGVy0cBG7SmgIF-UxprpiHCNIT3qfNIGrgVGkxi6X=s128-rw",
+    "downloads": "5+",
+    "isClick": true
+  },
+  {
+    "name": "4k Wallpapers HD",
+    "packageName": "com.apj.wallpaper.fourk",
+    "icon": "https://play-lh.googleusercontent.com/4hAHmFEMu3vSUq7LSELksixbwBpJfumtokJX2ywPciz5Q1UCTINbskiSfzpQ4-w8JivcGGstgcgxKYYvc4S6FlU=s128-rw",
+    "downloads": "1+",
+    "isClick": true
+  },
+  {
+    "name": "Tech Wallpapers HD",
+    "packageName": "com.apj.wallpaper.tech",
+    "icon": "https://play-lh.googleusercontent.com/9CjDVLfulxIIC2et1wAN-Q46e0aYK7afnJ0nzLJDWfPzgvo94_eKv5C49qEYher58gSuElaZFXUsOV6sRPwn1qs=s128-rw",
+    "downloads": "0+",
+    "isClick": true
+  },
+  {
+    "name": "Cross Wallpapers HD",
+    "packageName": "com.apj.wallpaper.cross",
+    "icon": "https://play-lh.googleusercontent.com/vm8BvKCy4SJw5xRV4gSgwhPUItXpyWaNlhLsxab604by69TrQet7Jnaa01vOzTJdnkNxzC38tQ4BHmeD-soz=s128-rw",
+    "downloads": "10+",
+    "isClick": true
+  },
+  {
+    "name": "Messi Wallpapers HD",
+    "packageName": "com.apj.wallpaper.messi",
+    "icon": "https://play-lh.googleusercontent.com/DxjwtdQdW3Bh5jrPMwZb7x6vNqEX0OVsUI4spFnST7HJrFae9wC9hT9kdfUmtjSEpAy5D3ujD2o94hYNTHMGVw=s128-rw",
+    "downloads": "5+",
+    "isClick": true
+  },
+  {
+    "name": "Easter Wallpapers HD",
+    "packageName": "com.apj.wallpaper.easter",
+    "icon": "https://play-lh.googleusercontent.com/4ZKb-OGLttHY53YNgE2vUb99o5FlAo4HlfuF2H4xWEgddrB1uH1-CNOVd-95gsl8iSVOxYuw7LPyFK_rhYTx=s128-rw",
+    "downloads": "10+",
+    "isClick": true
+  },
+  {
+    "name": "Gradient Wallpapers HD",
+    "packageName": "com.apj.wallpaper.gradient",
+    "icon": "https://play-lh.googleusercontent.com/xA4U0kb8OvDAtXtrsjdVYoo0vbUa0b7QSRa84uIuJeUDsIfoKrpw1b2xCfKURNdQqQAAa0R7lU0L2vJkbazmCg=s128-rw",
+    "downloads": "5+",
+    "isClick": true
+  },
+  {
+    "name": "Smile Gun Live Wallpapers HD",
+    "packageName": "com.apj.wallpaper.smile",
+    "icon": "https://play-lh.googleusercontent.com/Bbbdx72OCPUMdCvfH47FKDwat9f9oByUSPD2zOI6gnj9K4_0BUTtH5vAyZFS9kug_JpYRC1eHomsPA0F_VAd-w=s128-rw",
+    "downloads": "5+",
+    "isClick": true
+  },
+  {
+    "name": "Gun Wallpapers HD",
+    "packageName": "com.apj.wallpaper.gun",
+    "icon": "https://play-lh.googleusercontent.com/NgrcUBatz3FR5VD0atPMVR1Pj6chnb9TAmkn6s50o9FUf_46qfVHpKdj_MpvidzJgUavkdWfiwPXqCwy3C2klA=s128-rw",
+    "downloads": "10+",
+    "isClick": true
+  },
+  {
+    "name": "Gym Wallpapers HD",
+    "packageName": "com.apj.wallpaper.gym",
+    "icon": "https://play-lh.googleusercontent.com/AG8-MPqCAxy_1D5SknaldEtKDHZNpFZlQ1QoGvjxFweBDlG6p-xMvk_9x5xbch6po__WSZ4FihPmF7y2wKDJ=s128-rw",
     "downloads": "10+",
     "isClick": true
   },
@@ -14,9 +91,9 @@
     "isClick": true
   },
   {
-    "name": "Vaishno Devi Wallpapers HD",
-    "packageName": "com.apj.wallpaper.vaishno",
-    "icon": "https://play-lh.googleusercontent.com/CYUWlCtubRSZsfUpEs43b-8qi3lbshxH-l4O5Cpw-u96UojWOWVfpF-BQweZvjNYChNrtBAMQlsHVpRaYrhIZg8=s128-rw",
+    "name": "Alien Wallpapers HD",
+    "packageName": "com.apj.wallpaper.alien",
+    "icon": "https://play-lh.googleusercontent.com/TMGINks6g6vMFU__1byFtpSa9ER5u-mkKpT2VfJwETah0Cwzbm1BhrthaKajUw9UJzqmbY4kJu_Iw6HR4kLrrw=s128-rw",
     "downloads": "50+",
     "isClick": true
   },
@@ -35,9 +112,9 @@
     "isClick": true
   },
   {
-    "name": "Gun Wallpapers HD",
-    "packageName": "com.apj.wallpaper.gun",
-    "icon": "https://play-lh.googleusercontent.com/NgrcUBatz3FR5VD0atPMVR1Pj6chnb9TAmkn6s50o9FUf_46qfVHpKdj_MpvidzJgUavkdWfiwPXqCwy3C2klA=s128-rw",
+    "name": "Magic Fluid Wallpapers HD",
+    "packageName": "com.apj.wallpaper.fluid",
+    "icon": "https://play-lh.googleusercontent.com/1z5IckcgWmCuUAqBSNLuVHWJdhHCAUW6sWl21vHC2k-15Y4HC44zLGgp2BL-_nTwKeYiAq_Tn7u5u0xYC8Gy=s128-rw",
     "downloads": "10+",
     "isClick": true
   },
@@ -49,23 +126,9 @@
     "isClick": true
   },
   {
-    "name": "Gym Wallpapers HD",
-    "packageName": "com.apj.wallpaper.gym",
-    "icon": "https://play-lh.googleusercontent.com/AG8-MPqCAxy_1D5SknaldEtKDHZNpFZlQ1QoGvjxFweBDlG6p-xMvk_9x5xbch6po__WSZ4FihPmF7y2wKDJ=s128-rw",
-    "downloads": "10+",
-    "isClick": true
-  },
-  {
-    "name": "Alien Wallpapers HD",
-    "packageName": "com.apj.wallpaper.alien",
-    "icon": "https://play-lh.googleusercontent.com/TMGINks6g6vMFU__1byFtpSa9ER5u-mkKpT2VfJwETah0Cwzbm1BhrthaKajUw9UJzqmbY4kJu_Iw6HR4kLrrw=s128-rw",
-    "downloads": "10+",
-    "isClick": true
-  },
-  {
-    "name": "Lamborghini Wallpapers HD",
-    "packageName": "com.apj.wallpaper.lamborghini",
-    "icon": "https://play-lh.googleusercontent.com/25PBJU_ENNcCtOIkEfT5jWa2IexhwKPRzRUI5RJZGIUakA_Bq1T4Wz7gIOjGof03KMz3V43k1ZN1Q0awTu1W=s128-rw",
+    "name": "Vaishno Devi Wallpapers HD",
+    "packageName": "com.apj.wallpaper.vaishno",
+    "icon": "https://play-lh.googleusercontent.com/CYUWlCtubRSZsfUpEs43b-8qi3lbshxH-l4O5Cpw-u96UojWOWVfpF-BQweZvjNYChNrtBAMQlsHVpRaYrhIZg8=s128-rw",
     "downloads": "100+",
     "isClick": true
   },
@@ -74,6 +137,13 @@
     "packageName": "com.apj.wallpaper.krishna",
     "icon": "https://play-lh.googleusercontent.com/sec7iRxHugeKPpCB80zjIZcqes9z7fhMesqFTbhij3CEnRGXNiqoBTi8sHIj_uPPieAVdyRAgUFyS6u5SWbfgA=s128-rw",
     "rating": 0,
+    "downloads": "500+",
+    "isClick": true
+  },
+  {
+    "name": "Lamborghini Wallpapers HD",
+    "packageName": "com.apj.wallpaper.lamborghini",
+    "icon": "https://play-lh.googleusercontent.com/25PBJU_ENNcCtOIkEfT5jWa2IexhwKPRzRUI5RJZGIUakA_Bq1T4Wz7gIOjGof03KMz3V43k1ZN1Q0awTu1W=s128-rw",
     "downloads": "100+",
     "isClick": true
   }
